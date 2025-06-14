@@ -6,10 +6,10 @@
 1. [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/) `DONE`
 2. [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) `DONE`
 3. [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) `DONE`
-4. [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) 
-5. [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)
-6. [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)
-7. [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)
+4. [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) `DONE`
+5. [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)  `DONE`
+6. [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)  `DONE`
+7. [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) `DONE`
 8. [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)
 9. [Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/)
 10. [Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/)
@@ -33,16 +33,16 @@
 28. [Minimum Cost to Move Chips to The Same Position](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/)
 
 ### Medium
-1. [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
-2. [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)
-3. [Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii/)
+1. [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) `DONE`
+2. [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) `DONE`
+3. [Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii/) `DONE`
 4. [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
 5. [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
-6. [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
+6. [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) `DONE`
 7. [Jump Game](https://leetcode.com/problems/jump-game/)
-8. [Rotate Array](https://leetcode.com/problems/rotate-array/)
+8. [Rotate Array](https://leetcode.com/problems/rotate-array/) `DONE`
 9. [Sort Colors](https://leetcode.com/problems/sort-colors/)
-10. [House Robber](https://leetcode.com/problems/house-robber/)
+10. [House Robber](https://leetcode.com/problems/house-robber/) `DONE`
 
 ### Hard
 1. [Max Value of Equation](https://leetcode.com/problems/max-value-of-equation/)
