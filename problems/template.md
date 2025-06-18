@@ -1,5 +1,4 @@
-Best Rated Solution by LeetCode
-
+Optimal beats 100% in 7+ languages
 
 # Problem
 <!-- Problem statement with number here -->
@@ -25,18 +24,24 @@ Best Rated Solution by LeetCode
 <!-- Add your space complexity here, e.g. $$O(n)$$ -->
 
 # Code
-```java []
+```C []
 
 ```
-```python []
+```C++ []
+
+```
+```C# []
+
+```
+```Java []
+
+```
+```JavaScript []
+
+```
+```Python []
 
 ```        
-```c []
-
-```
-```javascript []
-
-```
-```c++ []
+```TypeScript []
 
 ```

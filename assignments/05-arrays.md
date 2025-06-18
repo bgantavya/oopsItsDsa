@@ -10,11 +10,11 @@
 5. [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)  `DONE`
 6. [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)  `DONE`
 7. [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) `DONE`
-8. [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)
-9. [Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/)
-10. [Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/)
-11. [Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/)
-12. [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/)
+8. [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) `DONE`
+9. [Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/) `DONE`
+- 10. [Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/)
+11. [Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/) `DONE`
+12. [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/) `DONE`
 13. [Flipping an Image](https://leetcode.com/problems/flipping-an-image/)
 14. [Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/)
 15. [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/)
