@@ -12,12 +12,12 @@
 7. [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) `DONE`
 8. [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) `DONE`
 9. [Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/) `DONE`
-- 10. [Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/)
+- 10. [Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/) `DONE`
 11. [Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/) `DONE`
 12. [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/) `DONE`
-13. [Flipping an Image](https://leetcode.com/problems/flipping-an-image/)
-14. [Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/)
-15. [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/)
+13. [Flipping an Image](https://leetcode.com/problems/flipping-an-image/) `DONE`
+14. [Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/) `DONE`
+15. [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/) `DONE`
 16. [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)
 17. [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)
 18. [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/)
@@ -30,7 +30,7 @@
 25. [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)
 26. [Plus One](https://leetcode.com/problems/plus-one/)
 27. [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
-28. [Minimum Cost to Move Chips to The Same Position](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/)
+28. [Minimum Cost to Move Chips to The Same Position](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/) `DONE`
 
 ### Medium
 1. [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) `DONE`
