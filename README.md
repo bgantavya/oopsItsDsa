@@ -16,11 +16,11 @@ This repository is designed to streamline your DSA learning journey, inspired by
 
 ## 📚 Resources
 
-* 📓 [**Notes**](https://github.com/bgantavya/oopsItsDsa/tree/main/lectures) – Summarized concepts from each module.
-* 🎥 [**Lectures**](https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ) – YouTube playlist covering every topic in depth.
+* 📓 [**Lectures**](https://github.com/bgantavya/oopsItsDsa/tree/main/lectures) – Summarized concepts from each module.
+* 🚀 [**Applications**](https://github.com/bgantavya/oopsItsDsa/tree/main/applications) – Real-world use cases and LeetCode-style problems.
 * 🧠 [**Assignments**](https://github.com/bgantavya/oopsItsDsa/tree/main/assignments) – Practice problems based on lecture content.
-* 🚀 [**Applications**](https://github.com/bgantavya/oopsItsDsa/tree/main/JavaByKunal) – Real-world use cases and LeetCode-style problems.
 * 💡 [**LeetCode Solutions**](https://github.com/bgantavya/oopsItsDsa/tree/main/problems) – Solutions aligned with common interview questions.
+* ⭐ [**Problems of the week**](https://github.com/bgantavya/oopsItsDsa/tree/main/pow) –  Most repeated MAANG Stuff.
 * 🔗 [**Reference Course**](https://www.techwithkunal.com/courses/dsa) – Full course by Kunal Kushwaha.
 
 ---
